@@ -28,7 +28,7 @@ Assurez-vous d'avoir **Python** (version compatible avec Python 3.13.2 recommand
 
 2.  **Créer un environnement virtuel (optionnel mais recommandé) :**
     ```powershell
-    python -m venv .venv
+    py -m venv .venv
     ```
 3.  **Activer l'environnement virtuel sur Windows :**
     ```powershell
