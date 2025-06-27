@@ -1,4 +1,4 @@
-# Projets IA Python pour débuttant
+# Projets IA Python pour débutant
 
 Bienvenue sur ce dépôt contenant les projets développés lors de mon stage de seconde chez Orange. Ce dépôt regroupe deux projets principaux axés sur l'Intelligence Artificielle et la programmation Python.
 
